@@ -1,0 +1,352 @@
+*{
+    margin: 0;
+}
+.topgreen{
+    position: sticky;
+    
+    display: flex;
+    width: 100%;
+    height: 91px;
+    background: #128c7e;
+}
+.topright{
+    
+    width: 25%;
+    height:100%;
+
+}
+.topleft{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    height: 100%;
+    width: 75%;
+    
+}
+.mainlogo{
+    height: 48px;
+    width: 48px;
+    margin-top: 20px;
+    margin-left: 122px;
+}
+.whatsapp{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    margin-top: -43px;
+    margin-left: 177px;
+    color: white;
+    
+}
+.topleft p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    color: white;
+}
+.ww{
+    margin-left: 70px;
+}
+.help{
+    margin-right: 0px;
+}
+.select{
+    background: #128c7e;
+    border: none;
+    margin-right: 163px;
+    padding: 5px;
+    height: 33px;
+    width: 49px;
+    color: white;
+}
+.aftertop{
+    display: flex;
+    width: 100%;
+    height: 700px;
+    background: white;
+}
+.afterleft{
+    width: 50%;
+    height: 100%;
+    
+}
+.afterright{
+    width: 50%;
+    height: 100%;
+    
+}
+.heading1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    margin-top: 121px;
+    margin-left: 291px;
+}
+.aftercontent1{
+    margin-left: 291px;
+    margin-top: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.4;
+}
+.aftercontent2{
+    margin-left: 291px;
+    margin-top: 32px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    
+}
+.androidlogo{
+    height: 20px;
+    width: 20px;
+    margin-top: 43px;
+    margin-left: 285px;
+    
+}
+.android{
+    margin-top: -30px;
+    margin-left: 319px;
+    font-size: 18px;
+    color: #39c6ca;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.iphone{
+    margin-top: 28px;
+    margin-left: 319px;
+    font-size: 18px;
+    color: #39c6ca;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.apple{
+    margin-bottom: 58px;
+    margin-top: -22px;
+    margin-left: 289px;
+    height: 20px;
+    width: 20px;
+}
+.monitor{
+    height: 20px;
+    width: 20px;
+    margin-top: 27px;
+    margin-left: -21px;
+}
+.mac{
+    margin-top: -25px;
+    margin-left: 319px;
+    font-size: 18px;
+    color: #39c6ca;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.phone{
+    width: 320px;
+    height: 590px;
+    margin-top: 40px;
+    margin-left: 86px;
+}
+.midile{
+    width: 100%;
+    height: 900px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.midileleft{
+    width: 49%;
+    height: 900px;
+    background-color: #d8e8ea;
+}
+.midileright{
+    width: 49%;
+    height: 900px;
+    background-color: #e7f0e4;
+}
+.bussineshead{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 119px;
+}
+.para1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 40px;
+    line-height: 1.4;
+}
+.para2{
+    font-size: 18px;
+    text-align: center;
+    line-height: 1.4;
+    margin-top: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.halfphone{
+    width: 350px;
+    height: 400px;
+    margin-top: 76px;
+    margin-left: 143px;
+}
+.circle1{
+    border-radius: 65%;
+    border: none;
+    margin-top: 106px;
+    margin-left: 164px;
+    height: 350px;
+    width: 350px;
+}
+.righthead1{
+    font-size: 18px;
+    color: #6c635e;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 74px;
+    text-align: center;
+}
+.righthead2{
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+.rightpass{
+    font-size: 19px;
+    color: #6c635e;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 35px;
+}
+.just{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 200px;
+    background-color: white;
+}
+.mainbutton{
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 70px;
+    color: #128c7e;
+    border-color: #39c6ca;
+    background-color: white;
+    border-style: solid;
+}
+.maincon{
+    display: flex;
+    width: 100%;
+    height: 386px;
+    background-color: #273443;
+}
+.bottomlast{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 65%;
+    height: 60px;
+    background-color: #273443;
+}
+.bottomlast p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+.section{
+    margin-top: 120px;
+    margin-left: -881px;
+    width: 940px;
+    height: 225px;
+    background-color: #273443;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.section1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 150px;
+    height: 200px;
+    
+}
+.section2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 150px;
+    height: 200px;
+    
+}
+.section3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 150px;
+    height: 200px;
+    
+}
+.section4{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 150px;
+    height: 200px;
+    
+}
+.section1 p{
+    font-size: 17px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+.section2 p{
+    font-size: 17px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+.section3 p{
+    font-size: 17px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+.section4 p{
+    font-size: 17px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+.finalpart{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 50px;
+    background-color: #1c1e21;
+    margin-top: 386px;
+    margin-left: -1036px;
+    text-align: center;
+}
+.wacopyright{
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 125px;
+
+}
+.privacy{
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    margin-top: 18px;
+    margin-right: 177px;
+}
